@@ -19,7 +19,7 @@ group :fetcher do
 end
 
 group :pdfs do
-  gem 'asciidoctor-pdf', '1.5.0.alpha.16'
+  gem 'asciidoctor-pdf', '1.5.0'
 end
 
 gem "concurrent-ruby", "~> 1.1"
